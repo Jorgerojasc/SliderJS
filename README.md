@@ -1,0 +1,1 @@
+Este proyecto fue hecho en su mayoria por @Jorgetojasc, Sin embargo tinen algunos detalles de diseño, como lo es que cuando al cambiar de una imágen a otra de forma automatica y si al mismo tiempo se decide cambiar de forma manual puede que en esa fracción de segundo omita una imagen o se pase de lleno a otra.
