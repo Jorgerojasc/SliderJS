@@ -44,15 +44,6 @@
 #btn_left{
     left: 10px;
 }
-.Description-container{
-    font-family: 'Open Sans', sans-serif;
-    color: #333333;
-    margin-top: 50px;
-    border-top: 1px solid #EEEEEE;
-    text-align: justify;
-    height: auto;
-
-}
 .boton_p{
     margin-top: 30px;
     text-decoration: none;
@@ -66,25 +57,6 @@
     font-family: 'Open Sans', sans-serif;
     display: inline-block;
       
-}
-#container-refs{
-    margin-top: 15%;
-}
-.enlaces-container{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    display: table-cell;
-   
-}
-.enlaces-container li a{
-    text-decoration: none;
-    color: #00457E;
-}
-.enlaces-container li{
-    width: 170px;
-    padding: 7px;
-    border-bottom: 2px solid #ECECEC;
-   
 }
 
 .circulo-section{
@@ -116,11 +88,4 @@
 }
 .current{
     background: #434648;
-}
-.enlaces-li{
-    cursor: pointer;
-}
-.enlaces-li:hover{
-    background-color: #f2f2f2;
-
 }
